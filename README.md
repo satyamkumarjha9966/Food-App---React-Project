@@ -9,3 +9,6 @@ The project's data is sourced from an external API kindly provided by another de
 Throughout the development process, we have paid close attention to code quality and maintainability. We adhere to industry best practices and follow a modular approach to ensure that the application's codebase remains organized and scalable. This approach will not only make it easier for future contributors to understand and extend the project but also ensures the application remains robust and resilient.
 
 In conclusion, the Food-App is a ReactJS-based web application that offers users an enjoyable experience in exploring diverse food items. Its filtering capabilities based on food names and types provide users with a personalized food discovery journey.
+
+![Screenshot (391)](https://github.com/satyamkumarjha9966/Food-App---React-Project/assets/123254088/6bcb0d80-7fbe-4bde-813f-b8b0b348890f)
+
